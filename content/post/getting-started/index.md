@@ -2,7 +2,7 @@
 title: Yogosha CTF – Uchiha or Evil ? Web Challenge Write-up (1000 pts)
 
 # Summary for listings and search engines
-Yogosha Chritmas CTF Write-up / First Web Challenge 
+summary: Yogosha Chritmas CTF Write-up / First Web Challenge 
 # Link this post with a project
 # projects: []
 
