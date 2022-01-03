@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Web exploitation
-    tag: Web
+  - name: Web Exploitation
+    tag: Web Exploitation
   - name: Other
-    tag: Web
+    tag: Demo
 
- design:
+design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 
@@ -41,7 +41,7 @@ content:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
