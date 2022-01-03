@@ -25,6 +25,7 @@ experience:
   - title: Chairwoman at Engineers Spark ISET'Com
     date_start: '2021-09-15'
     date_end: ''
+    description: |2-
         Responsibilities include:
 
         * Leadership
