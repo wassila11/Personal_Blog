@@ -9,9 +9,9 @@ superuser: true
 role: Student at Iset'COM
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-#- name: Stanford University
- #url: https://www.stanford.edu/
+# organizations:
+# - name: Stanford University
+ # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)	
 
@@ -64,4 +64,4 @@ highlight_name: true
 
 A cybersecurity enthusiast with interests in LoRaWan Technology, a CTF player and a violonist. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
