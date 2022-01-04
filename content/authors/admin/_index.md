@@ -16,7 +16,7 @@ role: Student at Iset'COM
 # Short bio (displayed in user profile at end of posts)	
 
 # Interests to show in About widget
-Interests:
+interests:
 - Violin & Arts
 - Web Exploitation
 - Cyber Security
@@ -24,9 +24,9 @@ Interests:
 - Coding
 - Pentesting
 
-Education:
-  Courses:
-  - Course: Licence Degree in Network Security
+education:
+  courses:
+  - course: Licence Degree in Network Security
     institution: Higher Institute of Telecommunication of Tunis 
     year: 2020-2021 
 
