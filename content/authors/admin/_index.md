@@ -28,7 +28,7 @@ Education:
   Courses:
   - Course: Licence Degree in Network Security
     institution: Higher Institut of Telecommunication of Tunis 
-    year: 2021
+    year: 2020-2021 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
