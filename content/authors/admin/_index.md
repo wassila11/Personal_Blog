@@ -27,7 +27,7 @@ Interests:
 Education:
   Courses:
   - Course: Licence Degree in Network Security
-    institution: Higher Institut of Telecommunication of Tunis 
+    institution: Higher Institute of Telecommunication of Tunis 
     year: 2020-2021 
 
 # Social/Academic Networking
