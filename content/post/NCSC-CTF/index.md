@@ -1,3 +1,42 @@
+---
+title: NCSC 3rd Edition CTF - Web Challenges Write-up
+# Summary for listings and search engines
+summary: NCSC CTF Write-up / Web Challenges 
+# Link this post with a project
+# projects: []
+
+# Date published
+date: "2022-02-06:22:00"
+
+# Date updated
+#lastmod: "2020-12-13T00:00:00Z"
+
+# Is this an unpublished draft?
+#draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+ 
+ 
+ # placement: 2
+  #preview_only: false
+
+authors:
+- Wassila Chtioui
+
+tags:
+- PHP exploitation
+- web exploitation
+- CTF write-up
+
+categories:
+- Web
+- CTF
+---
+
 # NCSC 3rd Edition CTF
 ## _Web Challenges Write-up_
 
