@@ -1,3 +1,46 @@
+
+---
+title: NahamCon CTF 2022 - Blind SQLi
+# Summary for listings and search engines
+summary: Medium Web Challenge Writeup 
+# Link this post with a project
+# projects: []
+
+# Date published
+date: "2022-05-01:17:00"
+
+# Date updated
+#lastmod: "2020-12-13T00:00:00Z"
+
+# Is this an unpublished draft?
+#draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+ 
+ 
+ # placement: 2
+  #preview_only: false
+
+authors:
+- Wassila Chtioui
+
+tags:
+- Blind SQLi
+- Web Exploitation
+- CTF Write-up
+- Flaskmetal Alchemist
+
+categories:
+- Web
+- CTF
+- SQLi
+---
+
+
 # NahamCon CTF 2022
 ## _Blind SQL Injection_
 
