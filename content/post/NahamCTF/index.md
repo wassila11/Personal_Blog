@@ -41,9 +41,6 @@ categories:
 ---
 
 
-# NahamCon CTF 2022
-## _Blind SQL Injection_
-
 ### Introduction 
 After spending the last month learning about each vulnerability and practising through labs. I had the oppportunity to evalute what I've leant so far through **_NahamCon CTF_** along with that my team **_Arr3stY0u_**.
 
