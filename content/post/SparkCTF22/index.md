@@ -1,6 +1,6 @@
 
 ---
-title: SparkCTF 2022 - Official Write-up For Blind_Format 
+title: SparkCTF 2022 - Official Writeup For Blind_Format 
 # Summary for listings and search engines
 summary: Medium Web Challenge Writeup 
 
