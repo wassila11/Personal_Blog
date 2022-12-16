@@ -1,4 +1,28 @@
-## SparkCTF 2022 - _Official Write-up For Blind_Format_ 
+
+---
+title: SparkCTF 2022 - _Official Write-up For Blind_Format_ 
+# Summary for listings and search engines
+summary: Medium Web Challenge Writeup 
+# Link this post with a project
+# projects: []
+
+# Date published
+date: "2022-12-16:13:00"
+
+authors:
+- Wassila Chtioui
+
+tags:
+- Blind SQLi
+- Web Exploitation
+- CTF Write-up
+- Format String Attack
+
+categories:
+- Web
+- CTF
+- SQLi
+---
 
 ### Introduction
 On the 9th of December, Engineers Spark Community held the SparkCTF 2022. It was a 12-hour local CTF in Tunisia, where 16 teams participated. It was incredible to get back to onsite CTFs after a long time due to the Corona pandemic.
