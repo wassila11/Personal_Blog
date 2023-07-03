@@ -7,7 +7,7 @@ summary: Medium Web Challenge Writeup
 # projects: []
 
 # Date published
-date: "2022-05-01:17:00"
+date: "2020-05-13T00:00:00Z"
 
 # Date updated
 #lastmod: "2020-12-13T00:00:00Z"
