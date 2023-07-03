@@ -5,7 +5,7 @@ title: SparkCTF 2022 - Official Writeup For Blind_Format
 summary: Medium Web Challenge Writeup 
 
 # Date published
-date: "2022-12-16:13:00"
+date: "2022-12-16T00:00:00+01:00"
 
 authors:
 - Wassila Chtioui
