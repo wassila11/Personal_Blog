@@ -6,7 +6,7 @@ summary: NCSC CTF Write-up / Web Challenges
 # projects: []
 
 # Date published
-date: "2022-02-06:22:00"
+date: "2022-02-06:11:00"
 
 # Date updated
 #lastmod: "2020-12-13T00:00:00Z"
