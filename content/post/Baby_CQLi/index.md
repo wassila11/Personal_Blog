@@ -6,7 +6,7 @@ summary: Medium/Hard Web Challenges Writeup
 # projects: []
 
 # Date published
-date: "2023-12-013T00:00:00Z"
+date: "2023-12-13T00:00:00Z"
 
 # Date updated
 #lastmod: "2023-12-13T00:00:00Z"
@@ -75,7 +75,7 @@ The interface had a jump game similar to the Google Chrome offline dino game. It
 There was also the source code for the page value-score.php that fetches the previous scores. Let's understand the code first. So since there was 
 some sort of interaction with the database through storing the score data, we can start by looking for how is the query being handled. 
 
-![alt text](https://i.imgur.com/FM5sZ7r.png)
+![alt text](https://i.imgur.com/cGX2o8X.png)
 
 
 The username is being concatenated to a SELECT stamement and then the query is executed using a custom function called queryLite instead of 
