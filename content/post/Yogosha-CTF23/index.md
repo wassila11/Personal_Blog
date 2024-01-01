@@ -1,5 +1,47 @@
+---
+title: Yogosha Christmas CTF 2023
+# Summary for listings and search engines
+summary: Web Challenges Writeup 
+# Link this post with a project
+# projects: []
 
-# Yogosha Christmas CTF
+# Date published
+date: "2023-01-01T00:00:00Z"
+
+# Date updated
+#lastmod: "2020-12-13T00:00:00Z"
+
+# Is this an unpublished draft?
+#draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+ 
+ 
+ # placement: 2
+  #preview_only: false
+
+authors:
+- Wassila Chtioui
+
+tags:
+- Web Exploitation
+- CTF Write-up
+
+categories:
+- Web
+- CTF
+- rust
+- md5
+- xor
+- path traversal
+- SSTI
+
+---
+# Yogosha Christmas CTF 2023
 
 ### Introduction 
 Last week I participated in the Yogosha Christmas CTF and ranked 7th. Here is a writeup of the Web challenges I played.  
