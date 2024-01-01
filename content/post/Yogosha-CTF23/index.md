@@ -6,7 +6,7 @@ summary: Web Challenges Writeup
 # projects: []
 
 # Date published
-date: "2023-01-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 
 # Date updated
 #lastmod: "2020-12-13T00:00:00Z"
