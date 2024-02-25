@@ -1,3 +1,37 @@
+---
+title: eWPTXv2 Certificate Review and Tips
+# Summary for listings and search engines
+# Link this post with a project
+# projects: []
+
+# Date published
+date: "2024-02-24T00:00:00Z"
+
+# Date updated
+#lastmod: "2024-02-24T00:00:00Z"
+
+# Is this an unpublished draft?
+#draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+ 
+ 
+ # placement: 2
+  #preview_only: false
+
+authors:
+- Wassila Chtioui
+
+categories:
+- Web
+- eWPTXv2
+- ine
+---
+
 # Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification
 
 
@@ -57,3 +91,7 @@ For a better organization, I would suggest to take screenshots and write a note 
 
 ### Conclusion
 I hope that I've covered all essential aspects in this blog post, but in case I've overlooked anything or if you have additional questions, please feel free to contact me, I'll be more than happy to assist.
+
+
+![](https://i.imgur.com/5zxZRAC.png)
+
