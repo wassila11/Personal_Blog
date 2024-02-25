@@ -1,15 +1,15 @@
 ---
-title: Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification
+title: Yogosha Christmas CTF 2023
 # Summary for listings and search engines
-summary: eWPTXv2 Certificate Review and Tips 
+summary: Web Challenges Writeup 
 # Link this post with a project
 # projects: []
 
 # Date published
-date: "2024-02-24T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 
 # Date updated
-#lastmod: "2024-02-24T00:00:00Z"
+#lastmod: "2024-02-13T00:00:00Z"
 
 # Is this an unpublished draft?
 #draft: false
@@ -27,10 +27,19 @@ featured: false
 authors:
 - Wassila Chtioui
 
+tags:
+- Web Exploitation
+- CTF Write-up
+
 categories:
 - Web
-- eWPTXv2
-- ine
+- CTF
+- rust
+- md5
+- xor
+- path traversal
+- SSTI
+
 ---
 
 ### Introduction
