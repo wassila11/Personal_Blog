@@ -1,5 +1,5 @@
 ---
-title: Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification
+title: Yogosha Christmas CTF 2023
 # Summary for listings and search engines
 summary: Web Challenges Writeup 
 # Link this post with a project
