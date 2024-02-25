@@ -1,15 +1,15 @@
 ---
-title: Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification
+title: Yogosha Christmas CTF 2023
 # Summary for listings and search engines
-summary: eWPTXv2 Certificate Review and Tips 
+summary: Web Challenges Writeup 
 # Link this post with a project
 # projects: []
 
 # Date published
-date: "2024-02-01T00:00:00Z"
+date: "2024-01-01T00:00:00Z"
 
 # Date updated
-#lastmod: "2024-02-13T00:00:00Z"
+#lastmod: "2020-12-13T00:00:00Z"
 
 # Is this an unpublished draft?
 #draft: false
@@ -29,7 +29,7 @@ authors:
 
 tags:
 - Web Exploitation
-- Penetration Test
+- Penetration test
 
 categories:
 - Web
