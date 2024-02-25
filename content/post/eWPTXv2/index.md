@@ -1,6 +1,7 @@
 ---
-title: eWPTXv2 Certificate Review and Tips
+title: Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification
 # Summary for listings and search engines
+summary: eWPTXv2 Certificate Review and Tips
 # Link this post with a project
 # projects: []
 
@@ -32,12 +33,11 @@ categories:
 - ine
 ---
 
-# Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification
-
-
 ### Introduction
 
-The eWPTXv2 *(eLearnSecurity Web Application Penetration Tester eXtreme)* certification is an advanced certification in web application penetration testing. It's basically a demonstration of a black box penetration test where you can asses your skills in enumeration, vulnerability assessment, filters bypass and report generation.
+The eWPTXv2 *(eLearnSecurity Web Application Penetration Tester eXtreme)* certification is an advanced certification in web application 
+penetration testing. It's basically a demonstration of a black box penetration test where you can asses your skills in enumeration,
+vulnerability assessment, filters bypass and report generation.
 
 I hope this article can provide you with some useful pointers to kickstart your journey in succeeded your eWPTXv2 certificate, and get familiar with some of the techniques needed.
 
