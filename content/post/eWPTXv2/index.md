@@ -1,7 +1,7 @@
 ---
 title: "Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification"
 # Summary for listings and search engines
-summary: Web Challenges Writeup 
+summary: eWPTXv2 Certificate Review and Tips
 # Link this post with a project
 # projects: []
 
@@ -38,7 +38,6 @@ categories:
 
 ---
 
-## Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification
 ### Introduction
 
 The eWPTXv2 *(eLearnSecurity Web Application Penetration Tester eXtreme)* certification is an advanced certification in web application 
