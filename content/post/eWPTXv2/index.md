@@ -1,5 +1,5 @@
 ---
-title: Unlocking CyberSkills\: Ultimate Guide to Acing the eWPTXv2 Certification
+title: "Unlocking CyberSkills: Ultimate Guide to Acing the eWPTXv2 Certification"
 # Summary for listings and search engines
 summary: Web Challenges Writeup 
 # Link this post with a project
