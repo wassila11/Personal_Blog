@@ -1,4 +1,3 @@
-
 ---
 title: SparkCTF 2022 - Official Writeup For Blind_Format 
 # Summary for listings and search engines
