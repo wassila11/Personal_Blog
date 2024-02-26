@@ -37,9 +37,6 @@ categories:
 - CTF
 ---
 
-# NCSC 3rd Edition CTF
-## _Web Challenges Write-up_
-
 ### Introduction 
 And here we are finally having the long awaited National CyberSecurity Congress in its 3rd edition. And of course I didn't miss the chance to attend. 
 So it's basically a 3 days event organized every year by Securinets Club INSAT. And there's always a CTF in the second day.
