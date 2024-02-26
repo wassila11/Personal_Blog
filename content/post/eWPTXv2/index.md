@@ -58,7 +58,7 @@ Some exploits or commands may not work on the first attempt sometimes, so anytim
 
 ### Certification Exam Insights and Review
 
-In my opinion, the exam scenario was quite fun and interesting. You get to assess your skills in building custom exploits and bypassing Web Application Firewalls (WAF). There was various vulnerabilities to exploit and some of them were tricky. In fact, It's similar to a real world pentest so it's a great opportunity to see how this looks like in reality and learn what you should and shouldn't do, despite the occasional instability in the lab environment. For Mac users, I recommend installing Tunnelblick to ensure seamless VPN functionality. Let me highlight here, that enumeration is key.
+In my opinion, the exam scenario was quite fun and interesting. You get to assess your skills in identifying various types of vulnerabilities and bypassing Web Application Firewalls (WAF). In fact, It's similar to a real world pentest so it's a great opportunity to see how this looks like in reality and learn what you should and shouldn't do, despite the occasional instability in the lab environment. For Mac users, I recommend installing Tunnelblick to ensure seamless VPN functionality. Let me highlight here, that enumeration is key.
 
 In addition, I learnt to think out of the box and to have a strategic plan of how to identify vulnerabilities. Closely observing the server response and behavior is crucial. I noticed that I need to read more blogs and practice more real life scenarios to improve my methodology of how to check for flaws and better identify the attack surface. 
 
@@ -83,7 +83,7 @@ Start by building a solid foundation in web application vulnerabilities and prac
 
 * **Capture The Flag contests:** Why CTFs are quite important here although the exam is not a CTF style at all and should think of it as a penetration test. Generally, in security platform, you know what vulnerability you're focusing on, but in real life cases (and in the exam), you have to identify the vulnerability you're going to exploit. CTFs are where you are able to learn this skill. This case is also the same for HTB web challenges. 
 
-Which resources are best, it depends on the person that's why I listed all the resources I find interesting. For me, I didn't bye the INE course, and when I started the preparation I already had the basic knowledge for web app vulnerabilities (I always practiced through Portwsigger). So what I did was to read reviews about the certificate, read various penetration testing reports/CTF writeups to grasp the methodology used and practice through CTFs as well as HTB machines and web challenges. 
+Which resources are best, it depends on the person that's why I listed all the resources I find interesting. For me, I didn't buy the INE course, and when I started the preparation I already had the basic knowledge for web app vulnerabilities (I always practiced through Portwsigger). So what I did was to read reviews about the certificate, read various penetration testing reports/CTF writeups to grasp the methodology used and practice through CTFs as well as HTB machines and web challenges. 
 
 Identify your position, what topics you should practice more, make sure you have the basics and then check more advanced stuff according to your pace and need. 
 
