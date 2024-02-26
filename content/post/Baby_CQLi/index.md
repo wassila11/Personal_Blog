@@ -39,7 +39,6 @@ categories:
 - Sqlite3
 
 ---
-# Securinets ISI Mini-CTF
 
 ### Introduction 
 Securinets is a Tunisian university cybersecurity association, founded in INSAT (National Institute of Applied Sciences and Technology) and since 
