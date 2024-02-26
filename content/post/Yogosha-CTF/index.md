@@ -38,14 +38,14 @@ categories:
 - CTF
 ---
 
-# Yogosha CTF -- Uchiha or Evil ? Web Challenge Write-up (1000 pts)
+## Introduction
 
 Did you have one of those days where you must prepare for your exams, yet an interesting ctf challenge is up and you can't help yourself dedicating your focus and your time playing.. ?
 Last weekend was the announcement of Yogosha Christmas Challenge, more than 300 players joined. I ranked 15th so I thought about sharing a write-up.
 It was basically a scenario based on the story of saving Konoha Village ( The author was a real Naruto fan ).
 The welcome challenge was an OSINT challenge, a very amusing one where you just need to find the user account on flicker, download the photo he shared then read its meta-data.
 The next challenge which was a lot more interesting had 3 steps in order to get the flag.
-## The First Step:
+## The First Step
 When reading the meta-data of the previous challenge, I found the flag along with the URL that took me to the next challenge.
 	![alt text](https://i.imgur.com/YPqE4zx.png)
 
@@ -63,7 +63,7 @@ I did that using Burp-suite.
 
 When forwarding the request an another webpage is loaded.. On to the next step !! 
 
-## The Second Step:
+## The Second Step
 I took a look at the source code and I noticed a default value set to be transfered in a post request, the hint contained the word state hash so when I googled it I found that hash-length extention attack is what I need to solve this task.
 Hash-length extention attack takes advantage of the weekness of MAC hashes (Message authentication code) which apply a hash function at the concatination of a secret key and a message H(secret ‖ message). The idea here is to abtain a valid hash without knowing the secret key and this is done by using Hash(message) and the length of the secret key to calculate Hash(message ‖ AddedData).
 So I searched for a tool to get this done and found hash_extender. 
@@ -101,7 +101,7 @@ and there we go !
 
 So I sent the request with burpsuit using this parameter, I took a look at the response and an another php code that takes us to the final step is found.
 ![alt text](https://i.imgur.com/5cNdsZD.png) 
-## The Third Step:
+## The Third Step
 Looking at this php code, we can understand the behaviour of the website in order to read the file secret.txt.
 ![alt text](https://i.imgur.com/oqHE5lZ.png) 
 We notice that it uses a function parse_url(). Thus, this function breaks the url up into various components.  
