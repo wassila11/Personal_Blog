@@ -41,8 +41,6 @@ categories:
 - SSTI
 
 ---
-# Yogosha Christmas CTF 2023
-
 ### Introduction 
 Last week I participated in the Yogosha Christmas CTF and ranked 7th. Here is a writeup of the Web challenges I played.  
 Enjoy your reading! 😊 
