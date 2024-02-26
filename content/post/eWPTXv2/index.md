@@ -34,7 +34,7 @@ tags:
 categories:
 - Web
 - eWPTXv2
-- ine
+- INE
 
 ---
 
@@ -75,13 +75,13 @@ Tailor your study plan to your learning style whether it's structured schedules 
 
 Start by building a solid foundation in web application vulnerabilities and practice them as much as you can through labs. Here are some recommended resources:
 
-* Portswigger:  If you're still a beginner and still learning about web app vulnerabilities or if you would like to tackle a specific topic for the first time then this is a very great resource for you. You can find labs ranging from friendly to expert along with very explained course to read. 
+* **Portswigger:**  If you're still a beginner and still learning about web app vulnerabilities or if you would like to tackle a specific topic for the first time then this is a very great resource for you. You can find labs ranging from friendly to expert along with very explained course to read. 
 
-* Hackthebox: This has more advanced labs but definitely worth checking. The web challenges ideas are very interesting and you can practice the machines as well. Why I would suggest HTB machines, is because you'll need enumeration skills during the exam and this is where you can practice them. Also it may be beneficial to save some of the payloads you use.
+* **Hackthebox:** This has more advanced labs but definitely worth checking. The web challenges ideas are very interesting and you can practice the machines as well. Why I would suggest HTB machines, is because you'll need enumeration skills during the exam and this is where you can practice them. Also it may be beneficial to save some of the payloads you use.
 
-* Pentesterlab: This is a very good resource too. It's a little bit similar to Portswigger but with more advanced stuff. I would suggest this if you're already familiar with web vulnerabilities and you're looking for the push to get you to the next step. 
+* **Pentesterlab:** This is a very good resource too. It's a little bit similar to Portswigger but with more advanced stuff. I would suggest this if you're already familiar with web vulnerabilities and you're looking for the push to get you to the next step. 
 
-* Capture The Flag contests: Why CTFs are quite important here although the exam is not a CTF style at all and should think of it as a penetration test. Generally, in security platform, you know what vulnerability you're focusing on, but in real life cases (and in the exam), you have to identify the vulnerability you're going to exploit. CTFs are where you are able to learn this skill. This case is also the same for HTB web challenges. 
+* **Capture The Flag contests:** Why CTFs are quite important here although the exam is not a CTF style at all and should think of it as a penetration test. Generally, in security platform, you know what vulnerability you're focusing on, but in real life cases (and in the exam), you have to identify the vulnerability you're going to exploit. CTFs are where you are able to learn this skill. This case is also the same for HTB web challenges. 
 
 Which resources are best, it depends on the person that's why I listed all the resources I find interesting. For me, I didn't bye the INE course, and when I started the preparation I already had the basic knowledge for web app vulnerabilities (I always practiced through Portwsigger). So what I did was to read reviews about the certificate, read various penetration testing reports/CTF writeups to grasp the methodology used and practice through CTFs as well as HTB machines and web challenges. 
 
