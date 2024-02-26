@@ -41,9 +41,6 @@ categories:
 
 ---
 
-# Amazon x WiCyS CTF
-## _Web Challenges Write-up_
-
 ### Introduction 
 It's been quite some time since I posted a CTF writeup so I thought that I will share some of the web challenges solutions of the recent CTF I plyaed: *Amazon X Wicys CTF*.
 First, let's talk about Wicys. Woman in Cybersecurity Association focuses on enhancing the role of woman in the field of cybersecurity by launching events, CTFs, workshops.. to encourage more woman join this field. And last week, they collaborated with Amazon to organise a CTF event that I participated in and thought to share with you my writeup as well as my feedback. 
