@@ -1,12 +1,13 @@
 ---
 # Display name
-title: Wassila Chtioui
+#title: XwaSS
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Student at Iset'COM
+
+#role: A double degree student at the National Institute of Applied Sciences of Lyon (INSA Lyon), France and the University of Passau, Germany
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -19,16 +20,21 @@ role: Student at Iset'COM
 interests:
 - Violin & Arts
 - Web Exploitation
-- Cyber Security
 - CTF
-- Coding
 - Pentesting
+- Badminton
 
 education:
   courses:
-  - course: Licence Degree in Network Security
-    institution: Higher Institute of Telecommunication of Tunis 
-    year: 2020-2021 
+  - course: Bachelor in Network Security
+    institution: Higher Institute of Telecommunication of Tunis, Tunisia
+    year: 2020-2023
+  - course: Masters of Science in Computer Science
+    institution: National Institute of Applied Sciences of Lyon (INSA Lyon), France
+    year: 2024-2026
+  - course: Masters of Science Degree in Computer Science
+    institution: University of Passau, Germany
+    year: 2024-2026 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,12 +62,10 @@ social:
 #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wassila.chtioui@edu.isetcom.tn"
+email: "wassila.chtioui@insa-lyon.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-A cybersecurity enthusiast with interests in LoRaWan Technology, a CTF player and a violonist. 
-
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+I hack, therefore I blog ..
