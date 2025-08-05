@@ -1,6 +1,6 @@
 ---
 # Display name
-#title: XwaSS
+title: XwaSS as in XSS
 
 # Is this the primary user of the site?
 superuser: true
@@ -41,18 +41,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://mobile.twitter.com/WasSiilachtioui 
 - icon: github
   icon_pack: fab
   link: https://github.com/wassila11 
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/wassila-chtioui-b81438209/ 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
