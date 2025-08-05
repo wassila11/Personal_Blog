@@ -1,6 +1,6 @@
 ---
 # Display name
-title: XwaSS as in XSS
+subtitle: XwaSS as in XSS
 font-size: M
 
 # Is this the primary user of the site?
