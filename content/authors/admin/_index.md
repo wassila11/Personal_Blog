@@ -62,4 +62,4 @@ email: "wassila.chtioui@insa-lyon.fr"
 highlight_name: true
 ---
 
-I hack, therefore I blog ..
+Sharing my CTF battles, so you don’t have to fight alone.
